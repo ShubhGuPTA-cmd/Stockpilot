@@ -1,0 +1,7 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { @apply bg-paper text-ink antialiased; font-family: "Segoe UI", system-ui, sans-serif; }
+:focus-visible { outline: 3px solid #f2c230; outline-offset: 2px; }
+.card { @apply rounded-lg border border-slate-300 bg-white p-4; }
+.btn { @apply min-h-[40px] rounded-md border border-teal px-3 py-1.5 text-teal hover:bg-teal/10 disabled:opacity-50; }
+.btn-primary { @apply min-h-[40px] rounded-md bg-teal px-3 py-1.5 text-white hover:opacity-90 disabled:opacity-50; }
+th { @apply p-2 text-left font-semibold text-slate-600; } td { @apply border-t border-slate-200 p-2; }
