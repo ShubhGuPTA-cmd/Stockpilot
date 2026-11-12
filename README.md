@@ -12,7 +12,7 @@ A supermarket store manager loses sales because items run out. Nobody checks sto
 - Purchase Orders page to approve or cancel drafts. The chat shows which tools the agent called and with what data
 
 ## Live demo
-- Vercel link: <link>
+- Vercel link: https://stockpilot-taupe-chi.vercel.app/
 - Passcode: <passcode>
 - Try this prompt: "Create purchase orders for all low-stock dairy items."
 
