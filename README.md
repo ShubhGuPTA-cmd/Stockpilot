@@ -13,7 +13,7 @@ A supermarket store manager loses sales because items run out. Nobody checks sto
 
 ## Live demo
 - Vercel link: https://stockpilot-taupe-chi.vercel.app/
-- Passcode: <passcode>
+- Passcode: StockPilot2026
 - Try this prompt: "Create purchase orders for all low-stock dairy items."
 
 ## Agent tools (Gemini function calling, max 5 rounds, args validated with Zod)
